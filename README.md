@@ -22,7 +22,6 @@ This project is a **3D animation** created using **HTML, CSS, and JavaScript**. 
 │── index.html     # Main HTML file
 │── style.css      # Styles for animations
 │── app.js         # JavaScript for interactions
-│── assets/        # Images, textures, and models (if any)
 │── README.md      # Project documentation
 ```
 
