@@ -1,6 +1,6 @@
-# 🎨 3D Animation Project using HTML, CSS, and JavaScript
+# 🌟 3D Animation Project using HTML, CSS, and JavaScript
 
-## 📌 Project Overview
+## 📈 Project Overview
 This project is a **3D animation** created using **HTML, CSS, and JavaScript**. It utilizes modern web technologies like **Three.js** (optional), **CSS animations**, and **JavaScript for interactivity** to create visually appealing 3D effects.
 
 ## ✨ Features
@@ -12,8 +12,40 @@ This project is a **3D animation** created using **HTML, CSS, and JavaScript**. 
 
 ## 🛠️ Technologies Used
 - **HTML5** - Structure of the project
-- **CSS3** - Styling and animations
-- **JavaScript (ES6+)** - Logic and interactivity
-- **Three.js (Optional)** - For advanced 3D rendering
+- **CSS** - Styling and animations
+- **JavaScript ** - Logic and interactivity
+- **Three.js ** - For advanced 3D rendering
 
-## 📂 Folder Structure
+## 👤 Folder Structure
+```
+/project-folder
+│── index.html     # Main HTML file
+│── style.css      # Styles for animations
+│── app.js         # JavaScript for interactions
+│── assets/        # Images, textures, and models (if any)
+│── README.md      # Project documentation
+```
+
+## 🚀 Getting Started
+### 🔹 1. Clone the Repository
+```sh
+git clone https://github.com/your-username/your-repo.git
+```
+
+### 🔹 2. Open the Project
+Navigate to the project folder and open `index.html` in a browser.
+
+### 🔹 3. Run a Local Server (Optional)
+For better performance, run a local server:
+```sh
+npx http-server
+```
+or
+```sh
+python -m http.server 8000
+```
+Then open `http://localhost:8000/` in your browser.
+
+
+
+
