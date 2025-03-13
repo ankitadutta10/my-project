@@ -29,7 +29,7 @@ This project is a **3D animation** created using **HTML, CSS, and JavaScript**. 
 ## 🚀 Getting Started
 ### 🔹 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+https://github.com/ankitadutta10/my-project.git
 ```
 
 ### 🔹 2. Open the Project
